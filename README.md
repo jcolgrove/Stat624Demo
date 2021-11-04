@@ -1,2 +1,2 @@
 # Stat624Demo
-Demo repo for instructional purposes
+Demo repo for instructional purposes in Python.
